@@ -1,0 +1,16 @@
+LTspice 26.1.1 for Windows
+Circuit: Z:\home\ashton\School\eced3202\lab1\Draft1.net
+Start Time: Fri Oct  2 13:33:19 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Per .tran options, skipping operating point for transient analysis.
+Total elapsed time: 0.055 seconds.
+Total iterations: 8840
+
+Files loaded:
+Z:\home\ashton\School\eced3202\lab1\Draft1.net
+C:\users\ashton\AppData\Local\LTspice\lib\cmp\standard.bjt
+
