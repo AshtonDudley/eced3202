@@ -1,0 +1,11 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\School Work\eced3202\models\transistor\TotemNPN_PNP.asc
+Start Time: Tue Sep 22 23:08:06 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Per .tran options, skipping operating point for transient analysis.
+Total elapsed time: 0.068 seconds.
+
